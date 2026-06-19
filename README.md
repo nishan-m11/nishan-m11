@@ -1,31 +1,9 @@
 <h1 align="center">Hi there👋, I'm Nishan M</h1>
+💫 About Me:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:nishan4515@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-      </a>
-      <br>Gmail
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/nishan-m11">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-      </a>
-      <br>LinkedIn
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/nishan_9611">
-        <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-      </a>
-      <br>Instagram
-    </td>
-  </tr>
-</table>
+•	Motivated Bachelor of Computer Applications (BCA) student with hands-on experience in software development, full-stack technologies, AI/ML fundamentals, and UI/UX design.<br>•	Proficient in Python, Java, SQL, and web technologies (Django, Flask), with experience building scalable and user-friendly applications.<br>•	Strong problem-solving abilities with practical exposure through internships in Data Analytics and Software Development, demonstrating the ability to optimize business processes.<br>•	Passionate about solving real-world problems through technology, continuous learning, and delivering innovative digital solutions.<br>
 
-<br>
-<br>
-<br>
+
 <h2 align="center">Languages Tools and Technologies💻</h2>
 
 <table align="center">
@@ -116,5 +94,13 @@
       </table>
     </td>
   </tr>
-
 </table>
+<br>
+
+Connect with me🌐:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishan_9611)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishan-m11)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nishan4515@gmail.com)
+
+
