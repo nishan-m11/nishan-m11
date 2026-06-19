@@ -1,9 +1,11 @@
-<h1 align="center">Hi there👋, I'm Nishan M</h1>
-💫 About Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Nishan+M" />
+</h1>
+<span style="color:#FF8C00;">⚡ Quick Introduction</span>
 
-•	Motivated Bachelor of Computer Applications (BCA) student with hands-on experience in software development, full-stack technologies, AI/ML fundamentals, and UI/UX design.<br>•	Proficient in Python, Java, SQL, and web technologies (Django, Flask), with experience building scalable and user-friendly applications.<br>•	Strong problem-solving abilities with practical exposure through internships in Data Analytics and Software Development, demonstrating the ability to optimize business processes.<br>•	Passionate about solving real-world problems through technology, continuous learning, and delivering innovative digital solutions.<br>
+•	I have  hands-on experience in software development, full-stack technologies, AI/ML fundamentals, and UI/UX design.<br>•	Proficient in Python, Java, SQL, and web technologies (Django, Flask), with experience building scalable and user-friendly applications.<br>•	Strong problem-solving abilities with practical exposure through internships in Data Analytics and Software Development, demonstrating the ability to optimize business processes.<br>•	Passionate about solving real-world problems through technology, continuous learning, and delivering innovative digital solutions.<br>
 
-
+<br>
 <h2 align="center">Languages Tools and Technologies💻</h2>
 
 <table align="center">
