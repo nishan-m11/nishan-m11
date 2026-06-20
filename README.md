@@ -1,65 +1,130 @@
-<h1 align="center">Hi there, I'm Nishan M 👋</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Hi+👋+I'm+Nishan+M;Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+ML+Explorer;Building+Impactful+Digital+Solutions" />
+</h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&color=blue&style=flat-square" alt="Profile views" />
-</div>
+<h3 align="center">
+🚀 Full Stack Developer • Data Analyst • AI/ML Enthusiast
+</h3>
 
-<br />
-
-### ⚡ Quick Introduction
-* 💻 Hands-on experience in **software development, full-stack technologies, AI/ML fundamentals, and UI/UX design**.
-* ⚙️ Proficient in **Python, Java, SQL, and web technologies** (Django, Flask), with experience building scalable and user-friendly applications.
-* 🔍 Strong problem-solving abilities with practical exposure through internships in Data Analytics and Software Development, demonstrating the ability to optimize business processes.
-* 🚀 Passionate about solving real-world problems through technology, continuous learning, and delivering innovative digital solutions.
-
-<br />
-
-### 💻 Languages, Tools, and Technologies
-
-#### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00BFFF">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=00BFFF">
 </p>
 
-#### Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
 </p>
 
-#### Libraries
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Nishan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-#### Database, Tools & OS
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-</p>
+---
 
-<br />
+## 💫 About Me
 
-<h3 align="center">🌐 Connect with me</h3>
-<div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/yourgithubusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+```python
+class NishanM:
+
+    role = "Full Stack Developer"
+
+    education = "Bachelor of Computer Applications"
+
+    location = "Bengaluru, India"
+
+    skills = [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Django",
+        "Flask",
+        "Power BI"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "Web Development"
+    ]
+
+    motto = "Turning Ideas Into Real World Solutions 🚀"
+
+---
+
+🚀 Current Focus
+
+- 🌱 Learning Advanced AI & Machine Learning
+- 🔥 Building Real-World Full Stack Applications
+- 📊 Creating Data Analytics Dashboards
+- 🤖 Exploring LLMs and AI Assistants
+- ☁️ Learning Cloud Technologies
+
+---
+
+🛠 Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,django,flask,mysql,sqlite,html,css,git,github,vscode&perline=7"/></p>---
+
+📌 Featured Projects
+
+<table>
+<tr><td width="50%">🤖 Resume Analyzer AI
+
+- ATS Score Analysis
+- Resume Parsing
+- Flask + Python
+- Dashboard Analytics
+
+</td><td width="50%">🏫 FacultyFlow
+
+- Faculty Allocation
+- Timetable Management
+- Admin Dashboard
+- Room Scheduling
+
+</td></tr><tr><td width="50%">💬 CodeBuddy AI
+
+- Ollama Integration
+- AI Chat Assistant
+- Chat History
+- Local LLM Support
+
+</td><td width="50%">📚 Study AI
+
+- AI Learning Platform
+- Personalized Study Support
+- Modern Dashboard
+- User Authentication
+
+</td></tr></table>---
+
+📊 GitHub Analytics
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/></p>---
+
+📈 Contribution Activity
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/></p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://linkedin.com/in/nishan-m11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://instagram.com/nishan_9611">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="mailto:nishan4515@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
+
+💡 Quote
+
+<p align="center">"Success is built one commit at a time."
+
+</p>---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/><h3 align="center">⭐ Thanks for visiting my profile ⭐
+
+</h3>
+```
