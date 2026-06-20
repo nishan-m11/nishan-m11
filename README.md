@@ -9,19 +9,6 @@
 <br>
 
 📍 Bengaluru, India &nbsp;&nbsp;•&nbsp;&nbsp; 🎓 BCA Graduate
-
-<br><br>
-
-<a href="https://linkedin.com/in/nishan-m11">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nishan4515@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/nishan_9611">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
