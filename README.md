@@ -1,108 +1,123 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Nishan+M" />
-</h1>
-<span style="color:#FF8C00;">⚡ Quick Introduction</span>
+# 💫 Hi, I'm Nishan M
 
-•	I have  hands-on experience in software development, full-stack technologies, AI/ML fundamentals, and UI/UX design.<br>•	Proficient in Python, Java, SQL, and web technologies (Django, Flask), with experience building scalable and user-friendly applications.<br>•	Strong problem-solving abilities with practical exposure through internships in Data Analytics and Software Development, demonstrating the ability to optimize business processes.<br>•	Passionate about solving real-world problems through technology, continuous learning, and delivering innovative digital solutions.<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+ML+Learner;Building+Innovative+Digital+Solutions" />
+</p>
 
-<br>
-<h2 align="center">Languages Tools and Technologies💻</h2>
+<p align="center">
+🎓 BCA Final Year Student <br>
+💻 Full Stack Developer | Data Analyst | AI/ML Enthusiast <br>
+📍 Bengaluru, India
+</p>
+
+---
+
+## ⚡ About Me
+
+- 🚀 Passionate about building scalable web applications and AI-powered solutions
+- 📊 Skilled in Python, SQL, Power BI, and Data Analytics
+- 🌐 Experienced in Django, Flask, HTML, CSS, and JavaScript
+- 🤖 Exploring AI/ML and intelligent systems
+- 📚 Continuous learner and problem solver
+
+---
+
+## 🛠️ Languages, Tools & Technologies
 
 <table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+</td>
+</tr>
 
-  <!-- Programming Languages -->
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=c" /><br>C</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,django,flask" />
+</td>
+</tr>
 
-  <!-- Web Development -->
-  <tr>
-    <td><b>Web Development</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Libraries</b></td>
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scipy,sklearn" />
+</td>
+</tr>
 
-  <!-- Data Science & ML -->
-  <tr>
-    <td><b>Libraries</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" /><br>NumPy</td>
-          <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" /><br>Pandas</td>
-          <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" /><br>Matplotlib</td>
-          <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" /><br>SciPy</td>
-          <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" /><br>Scikit-Learn</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</td>
+</tr>
 
-  <!-- Database -->
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" /><br>SQLite</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
+</tr>
 
-  <!-- Tools -->
-  <tr>
-    <td><b>Tools & Platforms</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-
-  <!-- OS -->
-  <tr>
-    <td><b>Operating Systems</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=windows" /><br>Windows</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>OS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=windows" />
+</td>
+</tr>
 </table>
-<br>
 
-Connect with me🌐:
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishan_9611)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishan-m11)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nishan4515@gmail.com)
+## 🚀 Featured Projects
 
+| Project | Description |
+|----------|------------|
+| Resume Analyzer AI | ATS Score & Resume Analysis Tool |
+| Smart Faculty Allocation | Faculty & Timetable Management System |
+| CodeBuddy AI | AI Coding Assistant using Ollama |
+| Study AI | AI-powered Learning Platform |
+| Data Analytics Dashboard | Interactive Business Dashboard |
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nishan-m11">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/nishan_9611">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nishan4515@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐ Turning Ideas into Impactful Digital Solutions ⭐
+</p>
