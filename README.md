@@ -74,8 +74,6 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <th>Project</th>
