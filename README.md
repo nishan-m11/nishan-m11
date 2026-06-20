@@ -1,72 +1,58 @@
-# 💫 Hi, I'm Nishan M
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+ML+Learner;Building+Innovative+Digital+Solutions" />
+# 👋 Hi, I'm Nishan M
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+ML+Explorer;Building+Impactful+Digital+Solutions" />
+
+### 🎓 BCA Graduate | 📍 Bengaluru, India
+
+<p>
+  <a href="https://linkedin.com/in/nishan-m11">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nishan4515@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/nishan_9611">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-🎓 BCA Graduate <br>
-💻 Full Stack Developer | Data Analyst | AI/ML Enthusiast <br>
-📍 Bengaluru, India
-</p>
+</div>
 
 ---
 
-## ⚡ A Quick Introduction 
+## ⚡ About Me
 
-- 🚀 Passionate about building scalable web applications and AI-powered solutions
-- 📊 Skilled in Python, SQL, Power BI, and Data Analytics
-- 🌐 Experienced in Django, Flask, HTML, CSS, and JavaScript
-- 🤖 Exploring AI/ML and intelligent systems
-- 📚 Continuous learner and problem solver
+- 🚀 Passionate about building scalable applications and AI-powered solutions
+- 📊 Strong interest in Data Analytics and Business Intelligence
+- 🌐 Experienced with Full Stack Development using Django & Flask
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📚 Continuous learner focused on real-world problem solving
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
+## 💻 Tech Stack
 
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b></td>
-<td>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
-</td>
-</tr>
 
-<tr>
-<td align="center"><b>Web</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,django,flask" />
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center"><b>Libraries</b></td>
-<td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scipy,sklearn" />
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=html,css,django,flask" />
 
-<tr>
-<td align="center"><b>Database</b></td>
-<td>
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</td>
-</tr>
 
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</td>
-</tr>
 
-<tr>
-<td align="center"><b>OS</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=windows" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -74,61 +60,75 @@
 
 <div align="center">
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
+### 🤖 Resume Analyzer AI
+ATS Score Analysis • Resume Intelligence • Flask
 
-<tr>
-<td>🤖 Resume Analyzer AI</td>
-<td>ATS Score & Resume Analysis Tool</td>
-</tr>
+### 🏫 FacultyFlow
+Smart Faculty Allocation & Timetable Management
 
-<tr>
-<td>🏫 Smart Faculty Allocation</td>
-<td>Faculty & Timetable Management System</td>
-</tr>
+### 💬 CodeBuddy AI
+Local AI Coding Assistant powered by Ollama
 
-<tr>
-<td>💬 CodeBuddy AI</td>
-<td>AI Coding Assistant using Ollama</td>
-</tr>
+### 📚 Study AI
+AI-powered Learning Platform
 
-<tr>
-<td>📚 Study AI</td>
-<td>AI-powered Learning Platform</td>
-</tr>
-
-<tr>
-<td>📊 Data Analytics Dashboard</td>
-<td>Interactive Business Dashboard</td>
-</tr>
-
-</table>
+### 📊 Data Analytics Dashboard
+Interactive Business Intelligence Dashboard
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/nishan-m11">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://instagram.com/nishan_9611">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishan-m11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <a href="mailto:nishan4515@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-m11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-m11&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+## 📈 Contribution Activity
+
 <p align="center">
-  ⭐ Turning Ideas into Impactful Digital Solutions ⭐
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishan-m11&theme=tokyo-night&hide_border=true"/>
+
 </p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nishan-m11&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- AI Applications
+- Cloud Technologies
+- Full Stack Architecture
+
+---
+
+<div align="center">
+
+### ⭐ Turning Ideas Into Impactful Digital Solutions ⭐
+
+</div>
