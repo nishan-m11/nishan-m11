@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-🎓 BCA Final Year Student <br>
+🎓 BCA Graduate <br>
 💻 Full Stack Developer | Data Analyst | AI/ML Enthusiast <br>
 📍 Bengaluru, India
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ A Quick Introduction 
 
 - 🚀 Passionate about building scalable web applications and AI-powered solutions
 - 📊 Skilled in Python, SQL, Power BI, and Data Analytics
@@ -72,27 +72,44 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|------------|
-| Resume Analyzer AI | ATS Score & Resume Analysis Tool |
-| Smart Faculty Allocation | Faculty & Timetable Management System |
-| CodeBuddy AI | AI Coding Assistant using Ollama |
-| Study AI | AI-powered Learning Platform |
-| Data Analytics Dashboard | Interactive Business Dashboard |
+<div align="center">
 
----
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<tr>
+<td>🤖 Resume Analyzer AI</td>
+<td>ATS Score & Resume Analysis Tool</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<tr>
+<td>🏫 Smart Faculty Allocation</td>
+<td>Faculty & Timetable Management System</td>
+</tr>
+
+<tr>
+<td>💬 CodeBuddy AI</td>
+<td>AI Coding Assistant using Ollama</td>
+</tr>
+
+<tr>
+<td>📚 Study AI</td>
+<td>AI-powered Learning Platform</td>
+</tr>
+
+<tr>
+<td>📊 Data Analytics Dashboard</td>
+<td>Interactive Business Dashboard</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -113,10 +130,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   ⭐ Turning Ideas into Impactful Digital Solutions ⭐
